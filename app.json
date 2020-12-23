@@ -1,0 +1,12 @@
+{
+  "name": "btc-app",
+  "displayName": "btc-app",
+  "expo": {
+    "name": "btc-app",
+    "slug": "btc-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
